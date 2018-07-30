@@ -1,5 +1,5 @@
-## FCC-Game-of-Life
-##### Game of Life project for [freecodecamp.com](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
+## FCC-Drum-Machine
+##### Drum Machine project for [freecodecamp.com](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 ##### Check it out [here](https://fcc-drum-machine.herokuapp.com/)
 
 <br/>
