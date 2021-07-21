@@ -69,8 +69,9 @@ class DrumMachine extends React.Component {
   }
 
   onKeyDown(e) {
-    if(e.key === "q" || e.key === "w" || e.key === "e" || e.key === "a" || e.key === "s" || e.key === "d" || e.key === "z" || e.key === "x" || e.key === "c") {
-      this.playSound(document.getElementById(e.key.toUpperCase()));
+    const pad = e.key.toUpperCase();
+    if(pad === "Q" || pad === "W" || pad === "E" || pad === "A" || pad === "S" || pad === "D" || pad === "Z" || pad === "X" || pad === "C") {
+      this.playSound(document.getElementById(pad));
     }
   }
 
